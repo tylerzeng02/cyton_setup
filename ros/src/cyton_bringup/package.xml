@@ -7,7 +7,7 @@
     Single top-level launch entry point for the Cyton Gamma 1500 ROS 2
     workspace -- wraps cyton_moveit_config/launch/demo.launch.py.
   </description>
-  <maintainer email="tonizengedu@gmail.com">tyler zeng</maintainer>
+  <maintainer email="tylerzeng16@gmail.com">tyler zeng</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

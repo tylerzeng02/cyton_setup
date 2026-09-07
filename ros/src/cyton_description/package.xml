@@ -13,7 +13,7 @@
     http://wiki.ros.org/cyton_gamma_1500_description); collision geometry
     is intentionally not yet included (deferred).
   </description>
-  <maintainer email="tonizengedu@gmail.com">tyler zeng</maintainer>
+  <maintainer email="tylerzeng16@gmail.com">tyler zeng</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

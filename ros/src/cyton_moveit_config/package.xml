@@ -8,7 +8,7 @@
     config, demo launch) for the Cyton Gamma 1500. Hand-written -- there
     was no prior MoveIt Setup Assistant output for this robot.
   </description>
-  <maintainer email="tonizengedu@gmail.com">tyler zeng</maintainer>
+  <maintainer email="tylerzeng16@gmail.com">tyler zeng</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

@@ -12,7 +12,7 @@
     conversion for the data this reads must go through
     robot_calibration.cpp, not a reimplementation.
   </description>
-  <maintainer email="tonizengedu@gmail.com">tyler zeng</maintainer>
+  <maintainer email="tylerzeng16@gmail.com">tyler zeng</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

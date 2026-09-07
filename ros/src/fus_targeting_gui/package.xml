@@ -15,7 +15,7 @@
     talks to MoveIt via pymoveit2 rather than moveit_py, which is not
     installed here.
   </description>
-  <maintainer email="tonizengedu@gmail.com">tyler zeng</maintainer>
+  <maintainer email="tylerzeng16@gmail.com">tyler zeng</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>ament_python</buildtool_depend>

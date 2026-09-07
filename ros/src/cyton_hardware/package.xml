@@ -11,7 +11,7 @@
     CMakeLists.txt). Requires external/DynamixelSDK to be populated at the
     top-level repo root (run 'git submodule update --init --recursive').
   </description>
-  <maintainer email="tonizengedu@gmail.com">tyler zeng</maintainer>
+  <maintainer email="tylerzeng16@gmail.com">tyler zeng</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

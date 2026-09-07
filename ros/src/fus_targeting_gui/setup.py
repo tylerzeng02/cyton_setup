@@ -18,7 +18,7 @@ setup(
     install_requires=["setuptools"],
     zip_safe=True,
     maintainer="tyler zeng",
-    maintainer_email="tonizengedu@gmail.com",
+    maintainer_email="tylerzeng16@gmail.com",
     description=(
         "Skull-mesh point-picking GUI for tFUS acoustic characterization. "
         "Loads a mesh, click to target, plans and executes via MoveIt. "

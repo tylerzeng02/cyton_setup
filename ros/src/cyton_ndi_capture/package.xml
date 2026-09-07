@@ -20,7 +20,7 @@
     the robot's current joint state from live ROS /joint_states instead of
     driving the arm itself via DynamixelMotor -- MoveIt does the moving now.
   </description>
-  <maintainer email="tonizengedu@gmail.com">tyler zeng</maintainer>
+  <maintainer email="tylerzeng16@gmail.com">tyler zeng</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
